@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibreCord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e950d75d1a3534161f6ab4ffc835d51c08760ab4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7addaa1cd854be6de0952c56d6f96ea7028af0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibreCord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibreCord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
