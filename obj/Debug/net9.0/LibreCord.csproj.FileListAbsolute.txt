@@ -1,0 +1,15 @@
+/home/cjkrome/Desktop/C#_Projects/LibreCord/bin/Debug/net9.0/LibreCord
+/home/cjkrome/Desktop/C#_Projects/LibreCord/bin/Debug/net9.0/LibreCord.deps.json
+/home/cjkrome/Desktop/C#_Projects/LibreCord/bin/Debug/net9.0/LibreCord.runtimeconfig.json
+/home/cjkrome/Desktop/C#_Projects/LibreCord/bin/Debug/net9.0/LibreCord.dll
+/home/cjkrome/Desktop/C#_Projects/LibreCord/bin/Debug/net9.0/LibreCord.pdb
+/home/cjkrome/Desktop/C#_Projects/LibreCord/obj/Debug/net9.0/LibreCord.GeneratedMSBuildEditorConfig.editorconfig
+/home/cjkrome/Desktop/C#_Projects/LibreCord/obj/Debug/net9.0/LibreCord.AssemblyInfoInputs.cache
+/home/cjkrome/Desktop/C#_Projects/LibreCord/obj/Debug/net9.0/LibreCord.AssemblyInfo.cs
+/home/cjkrome/Desktop/C#_Projects/LibreCord/obj/Debug/net9.0/LibreCord.csproj.CoreCompileInputs.cache
+/home/cjkrome/Desktop/C#_Projects/LibreCord/obj/Debug/net9.0/LibreCord.sourcelink.json
+/home/cjkrome/Desktop/C#_Projects/LibreCord/obj/Debug/net9.0/LibreCord.dll
+/home/cjkrome/Desktop/C#_Projects/LibreCord/obj/Debug/net9.0/refint/LibreCord.dll
+/home/cjkrome/Desktop/C#_Projects/LibreCord/obj/Debug/net9.0/LibreCord.pdb
+/home/cjkrome/Desktop/C#_Projects/LibreCord/obj/Debug/net9.0/LibreCord.genruntimeconfig.cache
+/home/cjkrome/Desktop/C#_Projects/LibreCord/obj/Debug/net9.0/ref/LibreCord.dll
